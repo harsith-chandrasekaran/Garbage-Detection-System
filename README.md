@@ -1,4 +1,4 @@
-# Garbage-Detection-System
+# Garbage-Detection-System (Currently Building)
 1. **Problem Statement:**
 Urban areas in India often face illegal dumping of garbage in open spaces, roadsides, and vacant lands. These waste heaps remain unreported for long periods, leading to environmental pollution, health risks, and delayed municipal response. A practical and automated method is required to detect such garbage dumps and notify authorities with accurate location information.
 
